@@ -1,4 +1,4 @@
-module.exports = [
+var data = [
     {
         subject: "Managing Projects & Innovation",
         distribution: ["Quizzes - 20%", "Project - 80%"]
@@ -20,3 +20,4 @@ module.exports = [
     }
 ];
 
+export default data;
